@@ -28,14 +28,14 @@ function makeInt(n){
 // return parseInt( n , 10)
 //}
 
-function makeInt(n){
-  return parseInt('n')
-}
+//function makeInt(n){
+  //return parseInt('n')
+//}
 
-function preserveDecimal(n){
-  return parseFloat('2.222')
-}
+//function preserveDecimal(n){
+  //return parseFloat('2.222')
+//}
 
-function preserveDecimal(n){
-  return parseFloat("n")
-}
+//function preserveDecimal(n){
+  //return parseFloat("n")
+//}
