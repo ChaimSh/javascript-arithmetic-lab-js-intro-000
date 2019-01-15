@@ -21,7 +21,7 @@ function dec(n){
 }
 
 function makeInt(n){
-  return parseInt('659')
+  return parseInt(n)
 }
 
 //function makeInt(n){
